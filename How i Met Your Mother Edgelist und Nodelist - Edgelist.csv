@@ -1,0 +1,15 @@
+from,to,weight ,relation
+Ted,Lilly,2,1
+Ted,Marshall,2,1
+Ted,Robin,2,2
+Ted,Barney,2,1
+Ted,Tracy,2,2
+Lilly,Robin,2,1
+Lilly,Marshall,2,2
+Lilly,Barney,1,1
+Marshall,Robin,1,1
+Marshall,Barney,2,1
+Barney,Robin,2,2
+Robin,Patrice,1,1
+Barney,Nora,1,2
+Barney,Ranshid,1,1
